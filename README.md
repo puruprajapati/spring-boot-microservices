@@ -31,3 +31,30 @@ Discovery server will save the info of the server
 ![image](https://user-images.githubusercontent.com/4188383/179446428-96936f15-303e-4621-a97f-ed5c3f66ba0b.png)
 
 
+without api gateway
+
+
+![image](https://user-images.githubusercontent.com/4188383/179662698-451cc343-2509-4de6-a365-65fd6b6f9a59.png)
+
+
+it will not work in production as app can have multiple instance
+
+
+![image](https://user-images.githubusercontent.com/4188383/179662798-3b897e2b-6a85-4f35-ac9f-e633c0ecc70d.png)
+
+
+api gateway also helps in 
+- routing based on request headers
+- authentication
+- security
+- load balancing
+- ssl termination
+
+
+
+
+
+
+
+URL :https://www.youtube.com/watch?v=0TQliqoX6Kc&list=PLSVW22jAG8pBnhAdq9S8BpLnZ0_jVBj0c&index=4
+
